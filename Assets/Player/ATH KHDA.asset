@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48d66a7510b67854da89b6d82f6f01f8, type: 3}
+  m_Name: ATH KHDA
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerData
+  playerName: KHDA
+  backNumber: 0
+  isPitcher: 0
+  statChance:
+    fhChance: 149
+    hrChance: 69
+    bbChance: 91
+    soChance: 280
+    hbpChance: 14
+    outChance: 397
